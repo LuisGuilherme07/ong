@@ -1,0 +1,224 @@
+/* body */
+body{
+    font-family: 'Roboto', 'sans-serif';  
+    margin: 0px; padding: 0px;
+}
+/* header nav */
+.navbar-collapse{
+    flex-grow: 0;      
+}
+.navbar>.container-fluid{
+    justify-content: space-around;
+    margin-top: 120px;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+/* Corpo - Banner - Sections */
+.bg{
+    display: flex;
+    justify-content:center ;
+    align-items:initi;   
+}
+.logo{
+    margin-top: 25px;
+    margin-left: 140px;
+    opacity: 50%;  
+}
+.imgfundo{
+    margin-left: 110px;
+}
+.btn{
+    color: #ffff;
+    background-color: #00BFA6;  
+    border-radius: 50px;
+    text-decoration: none;    
+    padding: 14px;      
+    text-transform: uppercase;  
+    padding-left: 20px;  
+}
+.btn:hover{
+   background-color: #028b7b;  color: #fff;
+
+}
+.btn{
+    float: left;
+    margin-left: 170px;
+    
+    
+}
+#textcenter{
+    text-align: justify;
+    float: right;
+    margin-right: 50px;
+}
+#textcenter2{
+    text-align: justify;
+    float: right;
+    margin-right: 150px;
+}
+#textbg{
+    float: left;
+    margin-top: -170px;
+    margin-left: 90px;
+    text-align: justify;
+    
+    
+}
+#textbg2{
+    float: right;
+    margin-right: 80px;
+    text-align: center;      
+}
+#indicedepobreza{
+    
+    color: white;
+}
+#comoajudar{
+    padding: 40px 96px;
+    background-color:#ffffff;
+    
+}
+#sobrenois{
+    padding: 20px 96px;   
+}
+#inicio{
+    padding: 136px;
+}
+section p{
+    margin: 24px 0px !important;
+    font-weight: 300 !important;
+    line-height: 40px !important;
+    text-align: justify !important;
+    font-size: 19px !important;
+    font-style: normal;
+    float: inline-start;
+}
+.subtitulo{
+    padding-top: 90px;
+    font-size: 30px;
+    font-weight: 700;
+    color: #575757;
+    text-align: center;   
+}
+/* Sections - Sobre nois - Galeria */
+.galeria{
+    text-align: center;
+}
+.galeria img{
+ margin-top: 10px;
+ padding: 8px;
+ width: 340px;
+ height: 265px;
+}
+#span1real{
+    color: #00BFA6;
+}
+#comoajudar span{
+    font-weight: 700;
+}
+.btn2{
+    color: #ffff;
+    background-color: #00BFA6;  
+    border-radius: 50px;
+    text-decoration: none;
+    padding: 15px;    
+    text-transform: uppercase;
+    
+}
+.btn2:hover{
+    background-color: #028b7b;
+    color: #fff;
+}
+.botão{
+    text-align: center;       
+}
+#contador{
+    display: flex;
+    justify-content: space-around;
+    background-color:#00BFA6;
+    color: white;
+}
+.indicedepobreza h2{
+color: white !important;
+}
+.counter{
+    
+    font-weight: 100;
+	font-size: 60px;
+	margin-top: 90px;
+}
+#mitext{
+  float: left;
+  margin-top: -60px;
+  margin-left: 200px;
+  font-size: 40px;
+}
+#mitext2{
+    float: left;
+    margin-top: -60px;
+    margin-left: 200px;
+    font-size: 40px;
+}
+#mitext3{
+    float: left;
+    margin-top: -60px;
+    margin-left: 200px;
+    font-size: 40px;
+  }
+/* RODAPÉ */
+
+.row{
+    justify-content: center;
+    margin: 0px;
+    padding-bottom: 50px;
+}
+footer {
+    background-color: rgb(0, 0, 0);
+    color: #b6b6b6;
+    text-align: center;
+    padding: 10px;
+}
+.py-5{
+    padding-bottom: 0px !important;
+    background-color: #d3d3d3;
+}
+h5{
+    color: #263238;
+}
+/* Btn topo*/
+.float{
+	position:fixed;
+	width:55px;
+	height:55px;
+	bottom:30px;
+	right:30px;
+	background-color:#00BFA6;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+.my-float{
+	margin-top:14px;
+}
+
+.button{
+    border: none;
+}
+.btn-primary{
+    border: none;
+    
+}
+.btn2{
+margin-left: 350px;
+}
+.logopix{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    float: left;
+    margin-top: 50px;
+    margin-left: 182px;
+    
+}
